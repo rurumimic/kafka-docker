@@ -16,8 +16,8 @@ Default Kafka cluster with docker.
   1. [메시지 보내기](메시지-보내기)
   1. [메시지 확인하기](메시지-확인하기)
 - [Performence Help](#performence-help)
-  - [kafka-producer-perf-test.sh](#kafka-producer-perf-test.sh)
-  - [kafka-consumer-perf-test.sh](#kafka-consumer-perf-test.sh)
+  - [kafka-producer-perf-test.sh](#kafka-producer-perf-testsh)
+  - [kafka-consumer-perf-test.sh](#kafka-consumer-perf-testsh)
 
 ---
 
