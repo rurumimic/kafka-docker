@@ -2,7 +2,7 @@
 
 Default Kafka cluster with docker.
 
-DockerHub: [rurumimic/kafka-docker/](https://hub.docker.com/r/rurumimic/kafka-docker/)
+DockerHub: [rurumimic/kafka-docker](https://hub.docker.com/r/rurumimic/kafka-docker)
 
 - [Kafka](#kafka)
 - [Dockerfile](#dockerfile)
